@@ -5,7 +5,7 @@
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-	<title>Database Login Test</title>
+	<title>Database Login</title>
 
 	<link href="css/app.css" media="screen" type="text/css" rel="stylesheet">
 	<link href="css/global.css" media="screen" type="text/css" rel="stylesheet">
